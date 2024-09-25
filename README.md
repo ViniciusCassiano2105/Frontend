@@ -2,8 +2,7 @@
 Bem-vindo ao repositório do projeto Playlists de Rock! Este projeto foi criado como parte do meu aprendizado em desenvolvimento 
 front-end, utilizando HTML e CSS para construir uma página de playlists de rock com um design interativo.
 ## Estrutura do Projeto 📄
-Os arquivos deste projeto estão organizados dentro da pasta **projetoIndividualHtmlCssPlaylistsDeRock**, conforme apresentado na 
-imagem fornecida. A estrutura dos diretórios é a seguinte:
+Os arquivos deste projeto estão organizados dentro da pasta **projetoIndividualHtmlCssPlaylistsDeRock**, a estrutura dos diretórios é a seguinte:
 ## Diretórios e Arquivos
 - **img/: Pasta que contém as imagens usadas no projeto, como capas de álbuns e o logotipo da página.**
 - **video/: Pasta onde está armazenado o vídeo que será exibido na página principal.**
