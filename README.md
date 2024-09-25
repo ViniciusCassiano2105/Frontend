@@ -26,6 +26,6 @@ Os arquivos deste projeto estão organizados dentro da pasta **projetoIndividual
 - **video/: Vídeo utilizado na página.**
 - **index.html: Estrutura da página web em HTML.**
 - **style.css: Estilos e design aplicados ao site.**
-- **Requisitos do Sistema 🖥️**
+## Requisitos do Sistema 🖥️
 - **Navegador (Chrome, Firefox, Edge, etc.).**
 - **Conexão com a internet para carregar os vídeos e links externos.**
