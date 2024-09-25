@@ -1,0 +1,312 @@
+body {
+  margin: 0px;
+  background-color: rgba(1, 1, 1, 0.934);
+  border-left: 1px solid rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(255, 255, 255);
+  border-right: 1px solid rgb(255, 255, 255);
+}
+
+.video {
+  width: 640px;
+  height: 360px;
+  margin-bottom: 150px;
+  position: relative;
+  left: 450px;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: rgb(255, 255, 255) 0px 20px 30px -10px;
+  border-radius: 5px;
+}
+
+.imagem {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  position: relative;
+  top: -14px;
+  left: 55px;
+}
+
+.cabecalho {
+  align-items: center;
+  text-align: right;
+  height: 100px;
+  background: linear-gradient(90deg, #040446, #11264b76, #0942a576);
+  border-bottom: 1px solid rgb(255, 255, 255);
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgb(255, 255, 255);
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  display: flex;
+}
+
+.botoes {
+  display: inline-block;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 100px;
+  height: 26px;
+  padding-top: 6px;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: #edece8;
+  font-weight: bolder;
+  font-size: 20px;
+  color: #0b0b50e6;
+  margin-top: 60px;
+  font-family: "Arvo", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.botoes:hover {
+  background-color: #e3dbdbc7;
+  color: white;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.titulo {
+  text-align: center;
+  padding-top: 0px;
+  color: #e0e1dd;
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 4px 4px 8px rgba(255, 255, 255, 0.3),
+    -2px -2px 6px rgba(255, 255, 255, 0.507);
+}
+
+.capa {
+  width: 350px;
+  height: 350px;
+  border-radius: 13px;
+  border: solid 1px c;
+  display: inline-block;
+  margin-left: 40px;
+  position: relative;
+  top: 30px;
+}
+
+.capainferior {
+  width: 350px;
+  height: 350px;
+  border-radius: 13px;
+  display: inline-block;
+  margin-left: 40px;
+  position: relative;
+  top: 70px;
+}
+
+.bordaimg {
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.subtitulo {
+  background: linear-gradient(90deg, #040446, #11264b76, #0942a576);
+  width: 1300px;
+  height: 195vh;
+  position: relative;
+  bottom: 60px;
+  left: 110px;
+  border-radius: 15px;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: rgb(255, 255, 255) 0px 20px 30px -10px;
+  margin-bottom: 65px;
+}
+
+.newsletter {
+  width: 100%;
+  height: 50px;
+  position: relative;
+  top: 170px;
+}
+
+.assine {
+  position: relative;
+  left: 470px;
+  bottom: 90px;
+  font-size: 1.1rem;
+  font-weight: bolder;
+}
+
+.titulonews {
+  font-size: 2.2rem;
+  text-decoration: underline;
+  position: relative;
+  left: 532px;
+  top: 5px;
+  font-family: "Rubik Dirt", system-ui;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7),
+    -2px -2px 6px rgba(255, 255, 255, 0.2);
+}
+
+.simbolo {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 720px;
+  bottom: 100px;
+}
+
+.login {
+  width: 40%;
+  height: 200px;
+  position: relative;
+  top: 250px;
+  left: 360px;
+  background-color: #67677425;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  gap: 0.8rem;
+  font-size: 1rem;
+  border-radius: 15px;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+.check {
+  position: relative;
+  right: 250px;
+  top: 18px;
+}
+
+.assinar {
+  position: relative;
+  left: 200px;
+  bottom: 100px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+.textologin {
+  position: relative;
+  left: 25px;
+  bottom: 30px;
+}
+
+.imput {
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.sombracapa:hover {
+  box-shadow: 0px 5px 10px rgba(0, 0, 139, 0.8),
+    0px 10px 20px rgba(70, 130, 180, 0.6),
+    0px 15px 30px rgba(211, 211, 211, 0.4),
+    0px 20px 40px rgba(173, 216, 230, 0.2),
+    0px 25px 50px rgba(255, 255, 255, 0.1);
+}
+
+.versorhcp:hover {
+  content: url("img/versorhcp.png");
+}
+.versoaudioslave:hover {
+  content: url("img/versoaudioslave.png");
+}
+.versofoofighters:hover {
+  content: url("img/versofoofighters.png");
+}
+.versoarticmonkeys:hover {
+  content: url("img/versoarticmonkeys.png");
+}
+.versothestrokes:hover {
+  content: url("img/versothestrokes.png");
+}
+.versolinkipark:hover {
+  content: url("img/versolinkinpark.png");
+}
+
+p {
+  color: #e0e1dd;
+}
+
+.sobre {
+  width: 95%;
+  height: 350px;
+  background: linear-gradient(90deg, #040446, #11264b76, #0942a576);
+  border-radius: 50px;
+  position: relative;
+  left: 39px;
+  border: 1px solid rgb(255, 255, 255);
+  box-shadow: rgb(255, 255, 255) 0px 20px 30px -10px;
+}
+
+.titulodesenvolvedor {
+  position: absolute;
+  top: -72px;
+  left: 40px;
+  color: aliceblue;
+  font-size: 2.5rem;
+  font-family: "Rubik Dirt", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 4px 4px 8px rgba(255, 255, 255, 0.3),
+    -2px -2px 6px rgba(255, 255, 255, 0.507);
+}
+
+.eu {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: relative;
+  left: 20px;
+  top: 70px;
+}
+
+.caixatextosobre {
+  width: 75%;
+  height: 300px;
+  position: relative;
+  left: 300px;
+  bottom: 200px;
+}
+
+.checkbox {
+  position: relative;
+  right: 360px;
+}
+
+.textosobre {
+  font-size: 1.8rem;
+  text-align: justify;
+}
+
+.rodape {
+  height: 110px;
+  background: linear-gradient(90deg, #040446, #11264b76, #0942a576);
+  margin-top: 100px;
+  border-top: 1px solid rgb(255, 255, 255);
+}
+
+.desenvolvido {
+  padding-top: 9px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.github {
+  position: relative;
+  left: 1430px;
+  top: 180px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid rgb(255, 255, 255);
+}

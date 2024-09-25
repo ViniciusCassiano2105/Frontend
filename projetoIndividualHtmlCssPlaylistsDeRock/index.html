@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Playslist</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bowlby+One+SC&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="cabecalho">
+      <div>
+        <a class="botoes" href="#playlist">Playlists</a>
+      </div>
+      <img
+        class="imagem"
+        src="img/rock.jpg"
+        alt="Logotipo com guitarra elétrica e texto 'Rock Playlist' cercado por raios azuis."
+      />
+      <div>
+        <a class="botoes" href="#news">Newsletter</a>
+        <a class="botoes" href="#sobremim">Sobre</a>
+      </div>
+    </header>
+
+    <main>
+      <h1 class="titulo">Principais playlists de Rock</h1>
+      <div class="video">
+        <video width="640" height="360" controls autoplay muted>
+          <source
+            src="video/Red Hot Chili Peppers - Dani California [Official Music Video].mp4"
+            type="video/mp4"
+          />
+          Seu navegador não suporta a tag de vídeo.
+        </video>
+      </div>
+      <div id="playlist" class="subtitulo">
+        <a
+          class="capa"
+          href="https://www.youtube.com/watch?v=YlUKcNNmywk&list=RDEMf5I_WGknwqULRz9t7aGnjw&start_radio=1"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versorhcp"
+            src="img/rhcp.png"
+            alt="Capa do álbum 'Californication' da banda Red Hot Chili Peppers, mostrando uma piscina com a água laranja e um céu azul ao fundo."
+        /></a>
+        <a
+          class="capa"
+          href="https://www.youtube.com/watch?v=7QU1nvuxaMA&list=PLMEZyDHJojxOSwQm3S_MEl5kw3mhbrE9M"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versoaudioslave"
+            src="img/audioslave.png"
+            alt="Capa da banda 'Audioslave', mostrando um símbolo de chama dourada em uma paisagem desértica, com uma pessoa de costas observando."
+        /></a>
+        <a
+          class="capa"
+          href="https://www.youtube.com/watch?v=SBjQ9tuuTJQ&list=PL597E0BDDC1D74ED2"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versofoofighters"
+            src="img/fooFighters.png"
+            alt="Capa do álbum 'In Your Honor' da banda Foo Fighters, com um fundo de raios verdes, um tecido azul com flores brancas, uma águia dourada e o nome da banda em destaque."
+        /></a>
+        <a
+          class="capainferior"
+          href="https://www.youtube.com/watch?v=ma9I9VBKPiw&list=PLF938E1197ABE02D6"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versoarticmonkeys"
+            src="img/arcticmonkeys.png"
+            alt="Capa do álbum 'Favourite Worst Nightmare' da banda Arctic Monkeys, mostrando uma casa escura com janelas iluminadas exibindo imagens abstratas coloridas."
+        /></a>
+        <a
+          class="capainferior"
+          href="https://www.youtube.com/watch?v=b8-tXG8KrWs&list=RDEMnEXP45f9-1leBVapyLbirQ&start_radio=1"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versothestrokes"
+            src="img/thestrokes.png"
+            alt="Capa do álbum 'Is This It' da banda The Strokes, mostrando uma mão enluvada de couro preto sobre o quadril de uma pessoa em um fundo claro."
+        /></a>
+        <a
+          class="capainferior"
+          href="https://www.youtube.com/watch?v=kXYiU_JCYtU&list=RDEMww6ZEHgLhQ-8eu_x7Z-FJw&start_radio=1"
+          target="_blank"
+          ><img
+            class="capa bordaimg sombracapa versolinkipark"
+            src="img/linkinpark.png"
+            alt="Capa do álbum 'Meteora' da banda Linkin Park, mostrando uma pessoa de máscara de gás agachada enquanto pinta uma parede, com o nome da banda e do álbum em destaque."
+        /></a>
+
+        <div id="news" class="newsletter">
+          <hr />
+          <p class="titulonews">Newsletter</p>
+          <img
+            class="simbolo"
+            src="img/simbolo.png"
+            alt="Ícone de uma mão fazendo o gesto de 'rock' com os dedos indicador e mínimo levantados."
+          />
+          <p class="assine">Assine e fique por dentro das novidades do ROCK</p>
+        </div>
+
+        <div class="login">
+          <input class="imput" type="text" placeholder="Digite seu nome" />
+          <input class="imput" type="email" placeholder="Digite seu email" />
+          <input class="check" type="checkbox" name="subscribe" />
+          <p class="textologin">Desejo receber emails</p>
+          <a class="botoes assinar" href="#">Assinar</a>
+        </div>
+      </div>
+
+      <div id="sobremim" class="sobre">
+        <h2 class="titulodesenvolvedor">Sobre o Desenvolvedor</h2>
+        <img
+          class="eu"
+          src="img/eu.jpg"
+          alt="Homem sentado em uma cadeira de balanço ao ar livre, usando camiseta branca e bermuda, olhando para o lado em um ambiente de praia ou piscina."
+        />
+        <div class="caixatextosobre">
+          <p class="textosobre">
+            Sou estudante de desenvolvimento Fullstack no Serratec, atualmente
+            aprofundando meus conhecimentos em front-end, com foco em HTML, CSS
+            e JavaScript. Durante o curso, já concluí disciplinas importantes
+            como Lógica de Programação (utilizando Portugol), Banco de Dados e
+            recentemente Java, com ênfase em Programação Orientada a Objetos.
+            Também possuo conhecimento em Git para controle de versão.
+            Paralelamente, estou cursando Sistemas de Informação pela UNINTER e,
+            além da área de tecnologia, tenho uma formação em Técnico em
+            Mecânica.
+          </p>
+          <hr />
+        </div>
+      </div>
+    </main>
+    <div>
+      <a href="https://github.com/ViniciusCassiano2105" target="_blank"
+        ><img
+          class="github"
+          src="img/github.png"
+          alt="Ícone do GitHub com a silhueta de um gato no centro de um círculo, em tons de preto e branco."
+      /></a>
+    </div>
+    <footer class="rodape">
+      <p class="desenvolvido">
+        Desenvolvido por Luiz Vinicus Cassiano Cunha <br /><br />Residência em
+        tic 2024.2 - turma: 21
+      </p>
+    </footer>
+  </body>
+</html>
