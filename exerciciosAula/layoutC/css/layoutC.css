@@ -26,7 +26,7 @@ body {
     flex: 0 1 50px;
 }
 
-.conteudo-wrapper {
+.conteudoimg {
     display: flex;
     flex-grow: 1;
 }
