@@ -7,13 +7,13 @@ Os arquivos estão organizados em diferentes pastas, separando os exercícios e 
 a navegação e o entendimento.
 
 ## Diretórios e Arquivos 📂
-**exerciciosAula/**
+**exerciciosAula/**  
 Essa pasta contém diversos exercícios realizados durante o aprendizado, divididos por temas.
 
-**htmlCssJavascript/**
+**htmlCssJavascript/**  
 Pasta com exercícios que incluem o uso de JavaScript para adicionar interatividade, divididos por dias e questões.
 
-**projetoIndividualHtmlCssPlaylistsDeRock**
+**projetoIndividualHtmlCssPlaylistsDeRock**  
 Esse diretório contém um projeto individual que desenvolvi como parte do curso, chamado Playlists de Rock, focado
 na criação de uma página web interativa utilizando HTML e CSS.
 
