@@ -6,7 +6,7 @@ projetos desenvolvidos durante o meu aprendizado em desenvolvimento front-end, c
 Os arquivos estão organizados em diferentes pastas, separando os exercícios e o projeto individual para facilitar 
 a navegação e o entendimento.
 
-## Diretórios e Arquivos
+## Diretórios e Arquivos 📂
 **exerciciosAula/**
 Essa pasta contém diversos exercícios realizados durante o aprendizado, divididos por temas.
 
@@ -26,10 +26,10 @@ na criação de uma página web interativa utilizando HTML e CSS.
 - **VS Code: Editor de código utilizado para desenvolver e organizar o código HTML, CSS e JavaScript.**
 ## Funcionalidades ⚙️
 Exercícios de Front-end: Cada diretório contém exercícios de prática diária para HTML, CSS e JavaScript.
-- **🎥 Exibição de vídeo no projeto Playlists de Rock: A página inclui um vídeo da banda Red Hot Chili Peppers, que é reproduzido automaticamente.**
-- **🎵 Playlists interativas no projeto Playlists de Rock: Apresentação de playlists de diferentes bandas de rock, com links diretos para vídeos no YouTube.**
-- **📧 Formulário de Newsletter no projeto Playlists de Rock: Permite que os usuários se inscrevam para receber atualizações por email.**
-- **👨‍💻 Seção "Sobre o Desenvolvedor": Informações sobre o desenvolvedor, suas habilidades e formações.**
+- **Exibição de vídeo no projeto Playlists de Rock: A página inclui um vídeo da banda Red Hot Chili Peppers, que é reproduzido automaticamente.**
+- **Playlists interativas no projeto Playlists de Rock: Apresentação de playlists de diferentes bandas de rock, com links diretos para vídeos no YouTube.**
+- **Formulário de Newsletter no projeto Playlists de Rock: Permite que os usuários se inscrevam para receber atualizações por email.**
+- **Seção "Sobre o Desenvolvedor": Informações sobre o desenvolvedor, suas habilidades e formações.**
 ## Estrutura de Layout 📐
 - **Projeto Playlists de Rock**
 - **Header: Contém links de navegação para as seções "Playlists", "Newsletter" e "Sobre", além de um logotipo.**
