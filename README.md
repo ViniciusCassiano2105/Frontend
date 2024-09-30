@@ -1,31 +1,40 @@
-# Projeto Individual - Playlists de Rock 🎸
-Bem-vindo ao repositório do projeto Playlists de Rock! Este projeto foi criado como parte do meu aprendizado em desenvolvimento 
-front-end, utilizando HTML e CSS para construir uma página de playlists de rock com um design interativo.
-## Estrutura do Projeto 📄
-Os arquivos deste projeto estão organizados dentro da pasta **projetoIndividualHtmlCssPlaylistsDeRock**, a estrutura dos diretórios é a seguinte:
+# Repositório Frontend 🌐
+Bem-vindo ao repositório Frontend! Este repositório foi criado para organizar e documentar os exercícios e 
+projetos desenvolvidos durante o meu aprendizado em desenvolvimento front-end, com foco em HTML, CSS, e JavaScript.
+
+## Estrutura do Repositório 📄
+Os arquivos estão organizados em diferentes pastas, separando os exercícios e o projeto individual para facilitar 
+a navegação e o entendimento.
+
 ## Diretórios e Arquivos
-- **img/: Pasta que contém as imagens usadas no projeto, como capas de álbuns e o logotipo da página.**
-- **video/: Pasta onde está armazenado o vídeo que será exibido na página principal.**
-- **index.html: O arquivo principal contendo a estrutura da página web em HTML.**
-- **style.css: Arquivo de estilos CSS que define o design da página.**
+**exerciciosAula/**
+Essa pasta contém diversos exercícios realizados durante o aprendizado, divididos por temas.
+
+**htmlCssJavascript/**
+Pasta com exercícios que incluem o uso de JavaScript para adicionar interatividade, divididos por dias e questões.
+
+**projetoIndividualHtmlCssPlaylistsDeRock**
+Esse diretório contém um projeto individual que desenvolvi como parte do curso, chamado Playlists de Rock, focado
+na criação de uma página web interativa utilizando HTML e CSS.
+
+- **img/: Contém imagens usadas no projeto, como capas de álbuns e o logotipo da página.**
+- **video/: Pasta com o vídeo que será exibido na página principal.**
+- **index.html: O arquivo principal que contém a estrutura da página web em HTML.**
+- **style.css: Arquivo CSS que define o design e os estilos aplicados à página.**
 ## Ferramentas Utilizadas 🛠️
-- **GIMP: Utilizado para redimensionar e ajustar as imagens das capas de álbuns para o projeto.**
-- **VS Code: Editor de código utilizado para desenvolver e organizar o código HTML e CSS do projeto.**
+- **GIMP: Usado para redimensionar e ajustar as imagens das capas de álbuns.**
+- **VS Code: Editor de código utilizado para desenvolver e organizar o código HTML, CSS e JavaScript.**
 ## Funcionalidades ⚙️
-- **🎥 Exibição de vídeo: A página inclui um vídeo da banda Red Hot Chili Peppers, que é reproduzido automaticamente.**
-- **🎵 Playlists interativas: Apresentação de playlists de diferentes bandas de rock, com links diretos para vídeos no YouTube.**
-- **📧 Formulário de Newsletter: O formulário permite que os usuários se inscrevam para receber atualizações por email.**
+- **Exercícios de Front-end: Cada diretório contém exercícios de prática diária para HTML, CSS e JavaScript.**
+- **🎥 Exibição de vídeo no projeto Playlists de Rock: A página inclui um vídeo da banda Red Hot Chili Peppers, que é reproduzido automaticamente.**
+- **🎵 Playlists interativas no projeto Playlists de Rock: Apresentação de playlists de diferentes bandas de rock, com links diretos para vídeos no YouTube.**
+- **📧 Formulário de Newsletter no projeto Playlists de Rock: Permite que os usuários se inscrevam para receber atualizações por email.**
 - **👨‍💻 Seção "Sobre o Desenvolvedor": Informações sobre o desenvolvedor, suas habilidades e formações.**
-- **🔗 Link para GitHub: Inclui um link para o repositório GitHub do desenvolvedor.**
-## Estrutura do Layout 📐
+## Estrutura de Layout 📐
+- **Projeto Playlists de Rock**
 - **Header: Contém links de navegação para as seções "Playlists", "Newsletter" e "Sobre", além de um logotipo.**
-- **Main Section: Exibe o título principal, vídeo, playlists com as capas dos álbuns e o formulário de newsletter.**
+- **Main Section: Exibe o título principal, vídeo, playlists com capas dos álbuns e o formulário de newsletter.**
 - **Footer: Contém informações sobre o desenvolvedor e um link para o GitHub.**
-## Estrutura de Pastas 📁
-- **img/: Imagens das capas dos álbuns e ícones, redimensionadas com o GIMP.**
-- **video/: Vídeo utilizado na página.**
-- **index.html: Estrutura da página web em HTML.**
-- **style.css: Estilos e design aplicados ao site.**
 ## Requisitos do Sistema 🖥️
 - **Navegador (Chrome, Firefox, Edge, etc.).**
 - **Conexão com a internet para carregar os vídeos e links externos.**
