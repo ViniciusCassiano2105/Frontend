@@ -25,7 +25,7 @@ na criação de uma página web interativa utilizando HTML e CSS.
 - **GIMP: Usado para redimensionar e ajustar as imagens das capas de álbuns.**
 - **VS Code: Editor de código utilizado para desenvolver e organizar o código HTML, CSS e JavaScript.**
 ## Funcionalidades ⚙️
-- **Exercícios de Front-end: Cada diretório contém exercícios de prática diária para HTML, CSS e JavaScript.**
+Exercícios de Front-end: Cada diretório contém exercícios de prática diária para HTML, CSS e JavaScript.
 - **🎥 Exibição de vídeo no projeto Playlists de Rock: A página inclui um vídeo da banda Red Hot Chili Peppers, que é reproduzido automaticamente.**
 - **🎵 Playlists interativas no projeto Playlists de Rock: Apresentação de playlists de diferentes bandas de rock, com links diretos para vídeos no YouTube.**
 - **📧 Formulário de Newsletter no projeto Playlists de Rock: Permite que os usuários se inscrevam para receber atualizações por email.**
